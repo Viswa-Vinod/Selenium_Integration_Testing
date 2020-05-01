@@ -1,6 +1,7 @@
 from selenium import webdriver
 
 # download chrome driver from https://sites.google.com/a/chromium.org/chromedriver/home
+# pip install selenium
 chrome_browser = webdriver.Chrome('./chromedriver')
 
 
